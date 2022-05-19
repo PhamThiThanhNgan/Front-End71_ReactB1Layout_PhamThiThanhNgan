@@ -1,0 +1,24 @@
+.banner{
+    margin-top: 50px;
+    text-align: center;
+    background: #f9f9f9;
+    padding: 100px 150px ;
+    border-radius: 5px;
+    line-height: 1.2;
+    
+
+}
+.banner h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.banner p{
+    font-size: 25px;
+    font-weight: 500;
+   
+   
+}
+.banner button{
+    padding: 8px 15px;
+    font-size: 22px;
+}
